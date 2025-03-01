@@ -18,6 +18,9 @@ This project aims to predict customer churn for a bank using machine learning. T
    - Evaluate performance using accuracy, precision, recall, and F1-score.
 
 ## 📌 Dataset
+The dataset used for this project can be found on Kaggle:
+[Bank Churn Dataset](https://www.kaggle.com/datasets/rangalamahesh/bank-churn)
+
 The dataset consists of customer-related features, including:
 - **Customer ID, Name** (Removed for privacy)
 - **Age, Gender, Geography**
